@@ -1,0 +1,23 @@
+.num-one, .num-three, .num-five {
+    background-color: rgb(236, 158, 158);
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#num-two {
+    color: blue;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.num-three {
+    font-size: 30px;
+}
+
+
+#num-four {
+    background-color: rgb(146, 231, 146);
+    font-weight: bolder;
+    font-size: 24px;
+}
