@@ -6,16 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Descendant Combinator</title>
     <link rel="stylesheet" href="style.css">
+
+    <style>
+
+      .container .text{
+        background-color: rgb(226, 226, 26); 
+        color: rgb(165, 65, 65); 
+        text-align: center;
+      }
+
+    </style>
+
   </head>
   <body>
+
     <div class="container">
       <p class="text">This should be styled.</p>
     </div>
+
     <p class="text">This should be unstyled.</p>
     <p class="text">This should be unstyled.</p>
+
     <div class="container">
       <p class="text">This should be styled.</p>
       <p class="text">This should be styled.</p>
     </div>
+
   </body>
 </html>
